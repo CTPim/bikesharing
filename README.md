@@ -9,23 +9,37 @@ The full Tableau Story can be found here: [NYC CitiBike Tableau Story](https://p
 
 ![CitiBike Users Breakdown](/images/citi_user_data.png/)
 
+According to this visual, more than 75% of CitiBike Users are subscribers. The other 25% of users are customers who do not have a subscription to CitiBike. We can further break down users of Citibikes by gender: approximately 25% of all users are female, approximately 65% of all users are male, and approximately 10% of users' gender are unknown. 
+
 ### Checkout times for Citbike Users
 
 ![Checkout times for Users](/images/checkout_users.png/)
 
+According to this graph, most Citibike users do not utilize the bike for more than 1 hour. Most of the Users ride the bike between 1 and 20 minutes, with 5 minutes being the majority. 
+
 ### Number of Trips by Days of the Week
 
 ![Number of Trips by Days of the Week](/images/trips_weekday.png/)
+
+According to this visual, a majority of citibikes are being used between the hours of 7AM-9AM and 4PM-8PM on weekdays. On weekends, Citibikes are used more evenly throughout the day, with Saturday being more popular than Sunday. 
 
 
 ### Checkout times for Citibike Users by Gender
 
 ![Checkout times for Citibike Users by Gender](/images/checkout_gender.png/)
 
+
+According to this graph, most Citibike users do not utilize the bike for more than 1 hour, regardless of gender. Most of the Users ride the bike between 1 and 20 minutes, with 5-7 minutes being the majority. 
+
+
 ### Citibike Users by Gender by Days of the Week
 
 ![Citibike Users by Gender by Days of the Week](/images/trips_gender_weekday.png/)
 
-### Citibike Users by Gender by hours of day
+This visual further states that a majority of users are Male Subscribers. Regardless of gender, Thursday seem to be the most popular day for users to ride a Citibike. 
+
+### Citibike Users by Gender by hours of day 
 
 ![### Citibike Users by Gender by hours per day](/images/trips_gender_weekday_hour.png/)
+
+According to this visual, a majority of citibikes are being used between the hours of 7AM-9AM and 4PM-8PM on weekdays. This visual also shows that there are more male users than female or gender unknown users. 
