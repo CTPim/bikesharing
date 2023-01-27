@@ -50,4 +50,4 @@ From the data that was gathered, it can be inferred that a majority of Citibike 
 
 Two additional visualizations I would recommend would be:
 - differences in average trip time between genders
--average distance covered on a Citibike (using starting and ending points)
+- average distance covered on a Citibike (using starting and ending points)
