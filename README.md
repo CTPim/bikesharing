@@ -43,3 +43,11 @@ This visual further states that a majority of users are Male Subscribers. Regard
 ![### Citibike Users by Gender by hours per day](/images/trips_gender_weekday_hour.png/)
 
 According to this visual, a majority of citibikes are being used between the hours of 7AM-9AM and 4PM-8PM on weekdays. This visual also shows that there are more male users than female or gender unknown users. 
+
+## Summary
+
+From the data that was gathered, it can be inferred that a majority of Citibike users are males who have a subscription to the service. Citibikes are heavily used during the hours of 7AM-9AM and 4PM-8PM, most likely coinciding with rush hours to and from work, school, or other daily activities. It can also be said that for a vast majority of users, the Citibikes are not used for more than 1 hour. 
+
+Two additional visualizations I would recommend would be:
+- differences in average trip time between genders
+-average distance covered on a Citibike (using starting and ending points)
